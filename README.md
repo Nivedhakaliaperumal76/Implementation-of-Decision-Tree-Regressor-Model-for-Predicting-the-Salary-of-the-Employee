@@ -8,10 +8,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Sample dataset
+2. Split features and target
+3. Create Decision Tree Regressor
+4. Predict salary for the dataset or new levels
+5. Visualize the results (High-resolution curve)
 
 ## Program:
 ```
