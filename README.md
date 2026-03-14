@@ -84,5 +84,10 @@ plt.show()
 
 
 
+
+
+
+
+
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
